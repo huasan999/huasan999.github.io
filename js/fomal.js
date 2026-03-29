@@ -3174,7 +3174,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://raw.githubusercontent.com/huasan999/Myimgs/main/img/0.jpg);
+    --default-bg: url(https://raw.githubusercontent.com/huasan999/Myimgs/main/img/1.jpg);
     --darkmode-bg:url(https://raw.githubusercontent.com/huasan999/Myimgs/main/img/1.jpg);
     --mobileday-bg: url(https://raw.githubusercontent.com/huasan999/Myimgs/main/img/2.jpg);
     --mobilenight-bg: url(https://raw.githubusercontent.com/huasan999/Myimgs/main/img/3.jpg);
